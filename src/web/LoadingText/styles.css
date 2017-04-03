@@ -1,0 +1,11 @@
+.loadingBar {
+  text-align: center;
+  background-color: lightgrey;
+  color: lightgrey;
+  font-size: 11px;
+  margin-right: 9px;
+  display: inline-block;
+}
+.loadingBar:last-child {
+  margin-right: 0;
+}

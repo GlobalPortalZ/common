@@ -1,0 +1,7 @@
+
+.paperCard {
+  border-radius: radius;
+  background-color: white;
+  box-shadow: 0 0 8px -4px black;
+  padding: 10px;
+}
