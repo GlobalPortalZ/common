@@ -8,6 +8,7 @@ Common components that we use for both React-Native and React web projects.
 - `Flex`
 - `Header`
 - `Icon`
+- `Touchable`
 
 ### Web
 
